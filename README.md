@@ -1,8 +1,10 @@
 ## Whatever happens, happens.
 **unusualifier/unusualifier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 [You with it, I'm with it, let's get it (Lets get it)](https://www.youtube.com/watch?v=yqLHn4Zksks)
 
 Hello, my name is Michael, but you know me as unusualifier.
+
 I don't do shit but I pretend I'm in some way significant.
 
 - 📫 How to reach me: 
