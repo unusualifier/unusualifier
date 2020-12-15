@@ -9,6 +9,4 @@ I don't do shit but I pretend I'm in some way significant.
   - **direct message** me on twitter at `twitter.com/unusualifier` **(Your best chance at getting my attention)**
   - **message** me on discord at `unusualifier#0001` **(Also a good way to contact me)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unusualifier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=unusualifier&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
