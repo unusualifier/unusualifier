@@ -4,7 +4,7 @@ Hello, my name is Michael, but you know me as unusualifier.
 I don't do shit but I pretend I'm in some way significant.
 
 - 📚 Projects I'm probably not working on:
-  - 🧭 **loco** - a Minecraft interafce utility that displays all sorts of information.
+  - 🧭 **loco** - a Minecraft interaface utility that displays all sorts of information.
   - ***more in the future... maybe.***
 
 - 📫 How to reach me: 
