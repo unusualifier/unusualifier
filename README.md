@@ -1,6 +1,6 @@
 ## [hi, im unusualifier](https://www.youtube.com/watch?v=jSoQNcpNI-k)
 
-![miku](whoupplayingwiththeyjumboshrimp.jpg)
+![ascii miku](ascii.png)
 
 *Takashi Murakami, I see colors all around me  
 I keep seeing stars but I'm driving in an Audi  
