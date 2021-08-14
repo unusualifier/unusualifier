@@ -1,7 +1,5 @@
 ## [hi, im unusualifier](https://www.youtube.com/watch?v=jSoQNcpNI-k)
 
-![ascii miku](ascii.png)
-
 *Takashi Murakami, I see colors all around me  
 I keep seeing stars but I'm driving in an Audi  
 If you ain't down to ride, then why are you around me?  
